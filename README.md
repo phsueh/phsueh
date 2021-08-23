@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Paul</h1>
-<h3 align="center">A happy software engineer</h3>
+<h3 align="center">A happy Software Engineer</h3>
 
 - 🔭 I’m currently working on [ProDuckTiv](https://github.com/phsueh/producktive-frontend)
 
