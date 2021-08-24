@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **hsueh.paul@gmail.com**
 
-### Latest Blogs: 
+### 📕 Latest Blogs: 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
