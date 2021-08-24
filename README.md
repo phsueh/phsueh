@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [www.paulhsueh.io](www.paulhsueh.io)
+<!-- - 👨‍💻 All of my projects are available at [www.paulhsueh.io](www.paulhsueh.io) -->
 
 - 📝 I regularly write articles on [Medium](https://hsueh-paul.medium.com/)
 
