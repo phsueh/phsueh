@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React, JavaScript, Ruby, Rails**
 
-- 📫 How to reach me **hsueh.paul@gmail.com**
+<!-- - 📫 How to reach me **hsueh.paul@gmail.com** -->
 
 ### 📕 Latest Blogs: 
 <!-- BLOG-POST-LIST:START -->
