@@ -15,6 +15,8 @@
 
 ### 📕 Latest Blogs: 
 <!-- BLOG-POST-LIST:START -->
+- [Handling Nested States with React Hooks](https://hsueh-paul.medium.com/handling-nested-states-with-react-hooks-6d3230559804?source=rss-639e6d23f5a3------2)
+- [Software Development: Project Management and Teams](https://hsueh-paul.medium.com/software-development-project-management-and-teams-ad0956176be2?source=rss-639e6d23f5a3------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
