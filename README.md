@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [ProDuckTiv](https://github.com/phsueh/producktive-frontend)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Solidity**
 
 <!-- - 👨‍💻 All of my projects are available at [www.paulhsueh.io](www.paulhsueh.io) -->
 
