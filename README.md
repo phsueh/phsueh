@@ -9,7 +9,7 @@
 
 - 📝 I sometimes write articles on [Medium](https://hsueh-paul.medium.com/)
 
-- 💬 Ask me about **React, JavaScript, Ruby, Rails**
+- 💬 Ask me about **React, JavaScript, Ruby, Rails, Java**
 
 <!-- - 📫 How to reach me **hsueh.paul@gmail.com** -->
 
