@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Paul</h1>
-<h3 align="center">A Software Engineer building Dapps</h3>
+<h3 align="center">I'm a Software Engineer</h3>
 
 - 🔭 I’m currently working on [My Wave Portal](https://github.com/phsueh/my-wave-portal)
 
