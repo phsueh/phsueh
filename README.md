@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Paul</h1>
 <h3 align="center">A Software Engineer in New York</h3>
 
-- 🔭 I’m currently working on [My Wave Portal](https://github.com/phsueh/my-wave-portal)
+- 🔭 I’m currently working on [Project Duck - An app that connects caregivers to local resources](https://github.com/phsueh/project-duck)
 
 - 🌱 I’m currently learning **Solidity**
 
