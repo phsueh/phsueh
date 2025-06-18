@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [Project Duck - A React app that connects caregivers to local resources](https://github.com/phsueh/project-duck/tree/feature-ui-v1)
 
-- 🌱 I’m currently learning **Solidity**
+<!-- - 🌱 I’m currently learning **Solidity** -->
 
 <!-- - 👨‍💻 All of my projects are available at [www.paulhsueh.io](www.paulhsueh.io) -->
 
-- 📝 I sometimes write articles on [Medium](https://hsueh-paul.medium.com/)
+<!-- - 📝 I sometimes write articles on [Medium](https://hsueh-paul.medium.com/) -->
 
-- 💬 Ask me about **React, JavaScript, Ruby, Rails, Java**
+<!-- - 💬 Ask me about **React, JavaScript, Ruby, Rails, Java** -->
 
 <!-- - 📫 How to reach me **hsueh.paul@gmail.com** -->
 
