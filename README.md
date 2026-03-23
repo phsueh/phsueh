@@ -1,5 +1,4 @@
 <h1 align="center">Hello, I'm Paul</h1>
-<h3 align="center">A Software Engineer in New York</h3>
 
 - 🔭 I’m currently working on [Project Duck - A React app that connects caregivers to local resources](https://github.com/phsueh/project-duck/tree/feature-ui-v1)
 
